@@ -3,6 +3,10 @@
   <h4 align="center">Utilities for `stdin` for NodeJS CLI Applications</h4>
 </div>
 
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/34756077/187345976-a9afada5-b851-454b-a393-955664271638.gif" />
+</div>
+
 ## Getting Started
 
 ```bash
